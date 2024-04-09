@@ -2,7 +2,7 @@
 
 - [x] S1: Getting started
 - [x] S2: Execution Contexts and Lexical Environments
-- [ ] S3: Types and Operators
+- [x] S3: Types and Operators
 - [ ] S4: Objects and Operators
 - [ ] S5: Object-Oriented Javascript and Prototypal Inheritance
 - [ ] S6: Building Objects
