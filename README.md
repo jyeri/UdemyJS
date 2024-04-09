@@ -18,4 +18,5 @@
 ## In sights of sections
 
 S1 - Basic information, how to set up your workspace and whats the point of this course
+
 S2 - Basic functionality, key differences with other programming languages I have learned. General grasp of basics.
