@@ -20,3 +20,6 @@
 S1 - Basic information, how to set up your workspace and whats the point of this course
 
 S2 - Basic functionality, key differences with other programming languages I have learned. General grasp of basics.
+
+S3 -  Coercion, why '===' instead of the '==' most of the time.
+Differences of C and JS in sense of types of variables (static and dynamic)
