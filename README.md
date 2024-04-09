@@ -23,3 +23,10 @@ S2 - Basic functionality, key differences with other programming languages I hav
 
 S3 -  Coercion, why '===' instead of the '==' most of the time.
 Differences of C and JS in sense of types of variables (static and dynamic)
+
+S4 - Objects, similarities to C structs when accessing with '.' operator.
+Functions are objects, my C mind hurts.
+So in JS functions can have properties, like in example (Function greet has given property of language via dot notation)!!!
+Function statements and function expressions, how to utilize them.
+-> function can be nameless
+
