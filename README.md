@@ -36,3 +36,18 @@ This object, what it is, how and why its created.
 -> when created it points to global window object in browser
 -> how to use self instead of this, so i know what to point all time
 -> most of this is cleared with LET variable
+--> so this points to global object (window this case), but when its method of an object its pointing to object. there is problem with internal tho
+
+var Arr = []; is equal to var Arr = new Array();
+-> dynamic so can hold anything (even function expressions and and objects, mixed) and no need to resizing like in C
+
+JS had keyword for arguments, that contains all of the given argments
+-> Unset arguments are allocated memoryspace and set to undefined
+-> you can set default parameters (when not all arguments are given, use this)
+--> name = name || "add first name";
+-> console.log(arguments) to show what argument values passed, its Array-like.
+--> that is stupid IMO
+-> THIS IS MOSTLY DEPRICATED, USE SPREAD INSTEAD.
+-> Spread = ...other
+
+
